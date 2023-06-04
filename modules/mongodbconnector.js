@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
 // Database connection URL
-const url = 'mongodb://localhost:27017';
+const url = 'mongodb+srv://jayantkumar2411:AbODXl5hIcIz9iuD@authapi.wf8fzby.mongodb.net/?retryWrites=true&w=majority';
 const dbName = 'auth_system_db';
 
 
